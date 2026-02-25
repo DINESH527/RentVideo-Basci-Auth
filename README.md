@@ -142,6 +142,7 @@ Use Postman to test endpoints.
 ⚙ Database Configuration
 
 spring.datasource.url=jdbc:mysql://localhost:3306/rentvideo
+
 spring.datasource.username=root
 spring.datasource.password=your-password
 
@@ -161,6 +162,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 3.Configure database in application.properties
 
 4.Run GroceryApplication.java
+
 
 
 
